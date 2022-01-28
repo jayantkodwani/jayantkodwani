@@ -26,11 +26,11 @@ _Languages and Tools:_ 🛠 <br><br>
 <br>
 <br>
 
-# Connect with me <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me <img src="https://github.com/jayantkodwani/jayantkodwani/blob/main/Handshake.gif" height="32px">
 
 [<img align="left" alt="JayantKodwani.com" height="30px" src="https://github.com/jayantkodwani/jayantkodwani/blob/main/JayantKodwani%20Logo.jpg" />](https://jayantkodwani.com/)
 
-[<img align="left" alt="Yogesh_Linkedin | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/jayantkodwani/)
+[<img align="left" alt="Jayant Kodwani_Linkedin | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/jayantkodwani/)
 
 <!---
 jayantkodwani/jayantkodwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
