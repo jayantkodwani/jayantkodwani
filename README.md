@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on machine learning projects, project management, Data visualization etc.
 - 📫 Please reach out to me at https://jayantkodwani.com/
 - ⚡️ Ask me about anything, I would be more than happy to help
+
+![](http://i.imgur.com/60bts.gif)
 <!---
 jayantkodwani/jayantkodwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
