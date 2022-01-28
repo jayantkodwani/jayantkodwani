@@ -36,6 +36,8 @@ _Languages and Tools:_ 🛠 <br><br>
 
 [<img align="left" alt="Jayant Kodwani_Linkedin | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/jayantkodwani/)
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jayantkodwani&repo=jayantkodwani&countColorcountColor&countColor=%237B1E7B"/>
+
 <!---
 jayantkodwani/jayantkodwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
