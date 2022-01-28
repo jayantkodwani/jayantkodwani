@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on machine learning projects, project management, Data visualization etc.
 - 📫 Please reach out to me at https://jayantkodwani.com/
 - ⚡️ Ask me about anything, I would be more than happy to help
+<img src="Python.gif" width="400" height="150" />
 
-![](Python.gif =250x250)
+![](Python.gif, width="200" height="400")
 
 <!---
 jayantkodwani/jayantkodwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
