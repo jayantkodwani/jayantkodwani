@@ -5,7 +5,7 @@
 - 📫 Please reach out to me at https://jayantkodwani.com/
 - ⚡️ Ask me about anything, I would be more than happy to help
 
-![](http://i.imgur.com/60bts.gif)
+![](https://media3.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=ecf05e47x2x8c1zo37on11b63vswcft3n843c9tlq44jm91p&rid=giphy.gif)
 <!---
 jayantkodwani/jayantkodwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
