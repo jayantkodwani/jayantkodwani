@@ -21,7 +21,16 @@ _Languages and Tools:_ 🛠 <br><br>
 
 <hr>
 
+🔭 You have finally discovered my Github profile!!
+<br>Thanks for stopping by!
+<br>
+<br>
 
+# Connect with me <img src="https://github.com/Yogeshk4124/Yogeshk4124/blob/master/Assets/Handshake.gif" height="32px">
+
+[<img align="left" alt="Yogesh Portfolio" height="30px" src="https://raw.githubusercontent.com/Yogeshk4124/yogeshk4124.github.io/gh-pages/icons/Icon-512.png" />](https://yogeshk4124.github.io/)
+
+[<img align="left" alt="Yogesh_Linkedin | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/jayantkodwani/)
 
 <!---
 jayantkodwani/jayantkodwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
