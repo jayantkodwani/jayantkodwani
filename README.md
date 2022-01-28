@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on machine learning projects, project management, Data visualization etc.
 - 📫 Please reach out to me at https://jayantkodwani.com/
 - ⚡️ Ask me about anything, I would be more than happy to help
-<img src="Python.gif" width="400" height="150" />
+
 
 _Languages and Tools:_ 🛠 <br><br>
 
@@ -18,6 +18,15 @@ _Languages and Tools:_ 🛠 <br><br>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <hr>
+
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=jayantkodwani&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkodwani&show_icons=true&layout=compact&theme=highcontrast" alt="Most Used Languages">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=jayantkodwani&theme=highcontrast" alt="Streak">
+</p>
+
+<img src="Python.gif" width="400" height="150" />
 
 🔭 You have finally discovered my Github profile!! Thanks for stopping by!
 <br>
