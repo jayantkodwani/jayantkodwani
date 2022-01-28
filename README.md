@@ -5,7 +5,7 @@
 - 📫 Please reach out to me at https://jayantkodwani.com/
 - ⚡️ Ask me about anything, I would be more than happy to help
 
-![](Python.gif)
+![](Python.gif =250x250)
 
 <!---
 jayantkodwani/jayantkodwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
