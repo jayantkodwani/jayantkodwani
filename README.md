@@ -14,7 +14,6 @@ _Languages and Tools:_ 🛠 <br><br>
 <code><img src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/></code>
-
 <code><img src="https://img.icons8.com/color/48/000000/git.png"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
