@@ -17,12 +17,10 @@ _Languages and Tools:_ 🛠 <br><br>
 <code><img src="https://img.icons8.com/color/48/000000/git.png"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
 <hr>
 
-🔭 You have finally discovered my Github profile!!
-<br>Thanks for stopping by!
-<br>
+🔭 You have finally discovered my Github profile!! Thanks for stopping by!
+
 <br>
 
 # Connect with me <img src="https://github.com/jayantkodwani/jayantkodwani/blob/main/Handshake.gif" height="32px">
