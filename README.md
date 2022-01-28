@@ -20,9 +20,7 @@ _Languages and Tools:_ 🛠 <br><br>
 <hr>
 
 🔭 You have finally discovered my Github profile!! Thanks for stopping by!
-
 <br>
-
 # Connect with me <img src="https://github.com/jayantkodwani/jayantkodwani/blob/main/Handshake.gif" height="32px">
 
 [<img align="left" alt="JayantKodwani.com" height="30px" src="https://github.com/jayantkodwani/jayantkodwani/blob/main/JayantKodwani%20Logo.jpg" />](https://jayantkodwani.com/)
